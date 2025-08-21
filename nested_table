@@ -1,0 +1,42 @@
+   <!DOCTYPE html>
+<html>
+    <head>
+        <title>Table</title>
+
+</head>
+<body>
+  <table border="2px" width="500px" height="300px">
+    <tr>
+      <td valign="bottom"  colspan="6">Welcome to Web Programming</td>
+      <td valign="top" rowspan="6">a</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="6">c</td>
+      <td valign="bottom" align="right" colspan="4">b</td>
+      <td valign="top" aling="right" rowspan="5">k</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="4">d</td>
+      <td colspan="2">l</td>
+      <td rowspan="2">g</td>
+     
+    </tr>
+    <tr>
+      <td align="center" rowspan="2">e</td>
+      <td align="center">f</td>
+      
+    </tr>
+    <tr>
+      <td colspan="2">h</td>
+    </tr>
+    <tr>
+      <td valign="center" colspan="4">i</td>
+      
+    </tr>
+    <tr>
+      <td colspan="6">j</td>
+     
+    </tr>
+  </table>
+</body>
+</html>
