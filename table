@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <tittle>
+        image 
+     </tittle>
+</head>
+     
+<body>
+    <center>
+    <table border="2px" style="width: 50px;height:50px">
+
+    <tr>
+        <td draggable="true" contenteditable="true">
+            <img style="width: 100px;height:100px;" src="C:\Users\rimis\Downloads\images45-split.zip\imageonline/00.jpeg">
+        </td>    
+        <td draggable="true" contenteditable="true">
+             <img style="width: 100px;height:100px;" src="01.jpeg">
+        </td>
+        <td draggable="true" contenteditable="true">
+             <img style="width: 100px;height:100px;" src="02.jpeg">
+        </td>
+    </tr>
+
+     <tr>
+        <td draggable="true" contenteditable="true">
+            <img style="width: 100px;height:100px;" src="00.jpeg">
+        </td>
+        <td draggable="true" contenteditable="true">
+             <img style="width: 100px;height:100px;" src="01.jpeg">
+        </td>
+        <td draggable="true" contenteditable="true">
+             <img style="width: 100px;height:100px;" src="02.jpeg">
+        </td>
+    </tr>
+
+    </table>
+
+    <div  contenteditable="true" style="margin-right: 850px;margin-top:160px; width: 100px; height:100px; position: absolute;
+    border: dotted; border-color: blue ">
+    </div>
+
+    </center>
+</body>
+
+</html>
